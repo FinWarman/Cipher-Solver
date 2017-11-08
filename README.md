@@ -6,3 +6,5 @@ This works by first trying every possible key for the chosen cipher, then analys
 Dictionary files (enaff.aff, endic.dic) must be in directory that excutable is launched from.
 
 All DLL files are required by program, unless using the manual Caesar shift.
+
+![alt text](https://raw.githubusercontent.com/FinWarman/Cipher-Solver/master/screenshot.jpg)
